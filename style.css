@@ -1,0 +1,76 @@
+/* some fucking style wizard type shit */
+div.page-header {
+  text-align: center;
+  color: #696967;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+div.page-header img {
+  height: 100px;
+}
+
+div.navbar ul {
+  width: 100%;
+}
+
+div.navbar ul li {
+  list-style: none;
+  text-align: center;
+}
+
+div.navbar li a {
+  color: #696967;
+  text-decoration: none;
+  line-height: 35px;
+}
+
+div.navbar li a:hover {
+  color: green;
+}
+
+div.jumbotron {
+  background-color: #ffffff;
+}
+
+h2 {
+  font-family: "Lucida Console", Monaco, monospace;
+  text-align: center;
+}
+
+div.jumbotron p {
+  font-size: 14pt;
+  text-align: justify;
+}
+
+div.jumbotron h3 {
+  font-family: "Lucida Console", Monaco, monospace;
+  text-align: center;
+}
+
+div.jumbotron a {
+  color: green;
+}
+
+#myCarousel a {
+  color: #ffffff;
+}
+
+div.col-sm-4 {
+  padding: 5%;
+}
+
+div.col-sm-4 img {
+  opacity: 0.7;
+}
+
+div.col-sm-4 img:hover {
+  opacity: 1;
+}
+
+#contactbox p {
+  text-align: center;
+}
+
+#contactbox h3 {
+  padding-top: 40px;
+}
